@@ -1,0 +1,30 @@
+/* Inserta tu codigo aqui */
+*{
+	font-family: Arial;
+}
+.logo1 {
+	width: 80px;
+	height: 80px;
+}
+li{
+	font-size: 15px;
+	display: inline-block;
+}
+header {
+	background-color: #2F4F4F;
+	font-family: Arial;
+	color: white;
+}
+section {
+	background-color: #C0C0C0;
+}
+p{
+	font-size: 15px;
+}
+.ImgSec1 {
+	width: 100%
+}
+.FontImgSec1{
+	text-align: center;
+	color: #191970;
+}
