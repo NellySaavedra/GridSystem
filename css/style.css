@@ -6,25 +6,115 @@
 	width: 80px;
 	height: 80px;
 }
+.firtsLine {
+	margin: 15px 0px 0px 15px;
+	font-size: 20px;
+}
+span {
+	color: #191970;
+	font-size: 15px;
+	color: blue;
+}
 li{
 	font-size: 15px;
 	display: inline-block;
+	margin: 33px 0px 0px 15px;
 }
 header {
-	background-color: #2F4F4F;
 	font-family: Arial;
 	color: white;
 }
-section {
-	background-color: #C0C0C0;
+.SecHeaderColor {
+	background-color: #2F4F4F;
+}
+/*Inicia Section*/
+.SecImgParte1 {
+
+	background-color: #DCDCDC;
 }
 p{
 	font-size: 15px;
 }
 .ImgSec1 {
-	width: 100%
+	width: 100%;
+	margin-top: 15px;
+	border: 3px solid white;
 }
-.FontImgSec1{
+.FontImgSec1 {
 	text-align: center;
 	color: #191970;
+	margin-bottom: 30px;
+	font-size: 20px;
+}
+.hrUno {
+	margin-bottom: 40px;
+}
+/*Colocación de cuadricula*/
+.ImgCuadricula {
+	width: 110px;
+	height: 110px;
+	margin-top: 12px;
+	border: 5px solid #DCDCDC;
+}
+.ImgCuadriculaText {
+	font-size: 12px;
+	color: blue;
+	text-align: center;
+}
+.col4 {
+	width: 110px;
+}
+.CuadriculaMBottom {
+	margin-bottom: 30px;
+}
+/* Columna extrema derecha */
+.HrIzq {
+	width: 100%;
+}
+table {
+	margin: 20px 0px 27px 0px;
+}
+.IconCol {
+	width: 40px;
+}
+.EncTexColIzp {
+	font-size: 18px;
+	color: 	#2F4F4F;
+	margin-bottom: 3px;
+}
+.TexColIzp {
+	color: blue;
+}
+.IconsMedida {
+	width: 12px;
+	height: 12px,
+}
+.TextIzqPie {
+	width: 100%;
+	margin-top: 20px;
+}
+/*Arreglo de footer*/
+.ContColor {
+	background-color: #808080;
+	padding: 20px 10px;
+	margin-bottom: 10px;
+}
+.PieText {
+	color: white;
+}
+.PieText span {
+	color: #2F4F4F;
+}
+
+.FootFont li {
+	font-size: 12px;
+	color: #2F4F4F;
+}
+.FootFont {
+	text-align: center;
+	padding-bottom: 20px;
+}
+h6 {
+	color: #2F4F4F;
+	text-align: center;
 }
